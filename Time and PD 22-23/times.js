@@ -1,24 +1,40 @@
 var SCHEDULE = {
   wednesday: [
     {name: 'Period 1', start: '7:25 AM', end: '8:01 AM'},
+    {name: 'Passing from PD 1 -> PD 2', start: '8:02 AM', end: '8:04 AM'},
     {name: 'Period 2', start: '8:05 AM', end: '8:41 AM'},
+    {name: 'Passing from PD 2 -> PD 3', start: '8:42 AM', end: '8:44 AM'},
     {name: 'Period 3', start: '8:45 AM', end: '9:21 AM'},
+    {name: 'Passing from PD 3 -> PD 4', start: '9:22 AM', end: '9:24 AM'},
     {name: 'Period 4', start: '9:25 AM', end: '10:01 AM'},
+    {name: 'Passing from PD 5 -> PD 6', start: '10:02 AM', end: '10:04 AM'},
     {name: 'Period 5', start: '10:05 AM', end: '10:41 AM'},
+    {name: 'Passing from PD 5 -> PD 6', start: '10:42 AM', end: '10:44 AM'},
     {name: 'Period 6', start: '10:45 AM', end: '11:21 AM'},
+    {name: 'Passing from PD 6 -> PD 7', start: '11:22 AM', end: '11:24 AM'},
     {name: 'Period 7', start: '11:25 AM', end: '12:01 PM'},
+    {name: 'Passing from PD 7 -> PD 8', start: '12:02 PM', end: '12:04 PM'},
     {name: 'Period 8', start: '12:05 PM', end: '12:41 PM'},
+    {name: 'Passing from PD 8 -> PD 9', start: '12:42 PM', end: '12:44 PM'},
     {name: 'Period 9', start: '12:45 PM', end: '1:21 PM'}
   ],
   otherDays: [
     {name: 'Period 1', start: '7:20 AM', end: '8:06 AM'},
+    {name: 'Passing from PD 1 -> PD 2', start: '8:07 AM', end: '8:09 AM'},
     {name: 'Period 2', start: '8:10 AM', end: '8:56 AM'},
+    {name: 'Passing from PD 2 -> PD 3', start: '8:57 AM', end: '8:59 AM'},
     {name: 'Period 3', start: '9:00 AM', end: '9:48 AM'},
+    {name: 'Passing from PD 3 -> PD 4', start: '9:49 AM', end: '9:51 AM'},
     {name: 'Period 4', start: '9:52 AM', end: '10:38 AM'},
+    {name: 'Passing from PD 4 -> PD 5', start: '10:39 AM', end: '10:41 AM'},
     {name: 'Period 5', start: '10:42 AM', end: '11:28 AM'},
+    {name: 'Passing from PD 5 -> PD 6', start: '11:29 AM', end: '11:31 AM'},
     {name: 'Period 6', start: '11:32 AM', end: '12:18 PM'},
+    {name: 'Passing from PD 6 -> PD 7', start: '12:19 PM', end: '12:21 PM'},
     {name: 'Period 7', start: '12:22 PM', end: '1:08 PM'},
+    {name: 'Passing from PD 7 -> PD 8', start: '1:09 PM', end: '1:11 PM'},
     {name: 'Period 8', start: '1:12 PM', end: '1:58 PM'},
+    {name: 'Passing from PD 8 -> PD 9', start: '1:59 PM', end: '2:01 PM'},
     {name: 'Period 9', start: '2:02 PM', end: '2:48 PM'}
   ]
 };

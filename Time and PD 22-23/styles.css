@@ -58,5 +58,6 @@ body {
     font-weight: bold;
     text-decoration: underline;
     }
-  
-  
+  #current-time {
+    font-size: 20;
+  }

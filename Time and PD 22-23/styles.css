@@ -5,7 +5,9 @@ body {
     padding: 0;
     background-color: transparent;
   }
-  
+  h1 {
+    text-decoration-line: underline;
+}
   .container {
     display: flex;
     flex-direction: column;
@@ -54,13 +56,16 @@ body {
     }
   }
   #current-period {
-    font-size: 38x;
+    font-size: 40px;
     font-weight: bold;
     text-decoration: underline;
     }
   #current-time {
     font-size: 32px;
+    text-decoration-line: underline;
   }
+
+p#current-time {}
   #time-range {
     font-size: 25px;
   }

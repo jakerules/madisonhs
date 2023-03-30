@@ -44,5 +44,5 @@ function updateTime() {
   currentTimeEl.textContent = 'Current time: ' + time;
 }
 
-// Run the updateTime at x interval
+// Run the updateTime function every minute
 setInterval(updateTime, 3);

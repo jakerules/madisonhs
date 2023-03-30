@@ -16,7 +16,7 @@ var SCHEDULE = {
     {name: 'Passing from PD 7 -> PD 8', start: '12:02 PM', end: '12:04 PM'},
     {name: 'Period 8', start: '12:05 PM', end: '12:41 PM'},
     {name: 'Passing from PD 8 -> PD 9', start: '12:42 PM', end: '12:44 PM'},
-    {name: 'Period 9', start: '12:45 PM', end: '1:21 PM'}
+    {name: 'Period 23', start: '12:45 PM', end: '1:21 PM'}
   ],
   otherDays: [
     {name: 'Period 1', start: '7:20 AM', end: '8:06 AM'},
@@ -35,6 +35,6 @@ var SCHEDULE = {
     {name: 'Passing from PD 7 -> PD 8', start: '1:09 PM', end: '1:11 PM'},
     {name: 'Period 8', start: '1:12 PM', end: '1:58 PM'},
     {name: 'Passing from PD 8 -> PD 9', start: '1:59 PM', end: '2:01 PM'},
-    {name: 'Period 9', start: '2:02 PM', end: '2:48 PM'}
+    {name: 'Period 23', start: '2:02 PM', end: '2:48 PM'}
   ]
 };
